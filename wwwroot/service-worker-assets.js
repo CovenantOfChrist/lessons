@@ -54,7 +54,7 @@
     },
     {
       "hash": "sha256-3wfgcTQJ9an0LM0ozPtEh6oLAG17eraK39cr8GC\/8Lk=",
-      "url": "Assets\/LessonUnits.json"
+      "url": "Assets\/lessonUnits.json"
     },
     {
       "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
@@ -197,7 +197,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Lw4AMkQ1RDEYT2amQQaXOox6SKD6wYETewPOip4pPb4=",
+      "hash": "sha256-nPMLArWvhshjYGuiZk5goyO07XKr5JYnz1giFsSx1xU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -233,7 +233,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-HCi3DSStcf3O88Rt8AHIkUT+sbkT3iHyph6QtxfBuDg=",
+      "hash": "sha256-8dHGnWRFX8fre3kvTHjlSZPPIXlWmjFtMs6Fe6T\/xyk=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -665,5 +665,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "\/A+a8H2c"
+  "version": "FlR5ud2f"
 };
