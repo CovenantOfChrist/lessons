@@ -13,7 +13,7 @@
       "url": "Assets\/drawerButtonScreen.png"
     },
     {
-      "hash": "sha256-ZsjrjDsxgVuwaSLocMSKYrqlNqAs+oJjD0s6Src3jBU=",
+      "hash": "sha256-b9tFA961ioQef6swUX9BI2VhZjAdWizUdOlAvuUbnRw=",
       "url": "Assets\/lessons\/manifest.json"
     },
     {
@@ -185,7 +185,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-QnW99Nhvc5U\/VY6gBRfnLYQQQ8kmp\/B\/3iQIaVObpNY=",
+      "hash": "sha256-p5L1rBq9LXyryAaig9I\/Qs0AnYTDIp2KpSWA8GTyc38=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -221,7 +221,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-0OgekjJp7Labn2IZpTywSaCosF2Zblafttm7P\/3rzL0=",
+      "hash": "sha256-qiqSqmJCJTAKcIbEoWwSuIHLlTtGD3nLCpR5l2zE+5M=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -461,7 +461,7 @@
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-\/GacKadcF5Prz\/ooRk4XrJ5I4pmcetbKlpCnpHeaXZA=",
+      "hash": "sha256-kLCuOIsxssx5WslsPn\/KV98BzLFfhmf9lzpnn1IdsLA=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
@@ -653,5 +653,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "zh1Q8kb3"
+  "version": "mpGlQsBO"
 };
