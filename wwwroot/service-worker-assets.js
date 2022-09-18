@@ -125,7 +125,7 @@
       "url": "js\/bootstrap.min.js"
     },
     {
-      "hash": "sha256-yvzfglcDXsfRO2PggagCgF8hRxYWPrlz4kHzEQsW+cg=",
+      "hash": "sha256-bFwVL8OxS73CczE+wIB\/AsLzxE68W0m7Awyryu1r+7g=",
       "url": "js\/database.js"
     },
     {
@@ -185,7 +185,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-RmPEkO9jrkfPTMMqLBKToyQ693TQvnJlIj07Za4Uuus=",
+      "hash": "sha256-tpEork2PFybDqgkbYxmnbHXldRfcNUU3EeOz+JtQlIU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -221,7 +221,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-q7KnzgbDJWIHCYYokFQqpEhfNKfrxd1htCeMu+r3NoM=",
+      "hash": "sha256-oSXPrI9DBSY3h4eDUUMk3aZJkIoTik6uRD2665MSA9o=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -653,5 +653,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "FAsvKoMB"
+  "version": "gusPrcmy"
 };
