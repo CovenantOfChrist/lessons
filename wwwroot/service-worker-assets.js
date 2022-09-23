@@ -17,6 +17,10 @@
       "url": "Assets\/lessons\/manifest.json"
     },
     {
+      "hash": "sha256-vEiSxhmxEEFlIBRJv8FUGpFzR2BqI8xHcthSO8df8do=",
+      "url": "Assets\/lessons\/replacements.json"
+    },
+    {
       "hash": "sha256-xbqPmBBztJjlqC3nXSNG\/EvbOZGGFOxMD0q1mxA3X7k=",
       "url": "Assets\/lessons\/Бытие.docx"
     },
@@ -185,7 +189,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-tpEork2PFybDqgkbYxmnbHXldRfcNUU3EeOz+JtQlIU=",
+      "hash": "sha256-dcC8RmSuwIqrHHK4v+JtXm2tozO6lM3X3RR0F9ijr2Y=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -221,7 +225,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-oSXPrI9DBSY3h4eDUUMk3aZJkIoTik6uRD2665MSA9o=",
+      "hash": "sha256-Nd9SztxXVk61dDXEZ0iiNb6aS9xjUrf4gLGbyHSaEcU=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -605,7 +609,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-8F1pL3QI47nRc317p44IHilM0KALNCrg5QKwq+fgrbs=",
+      "hash": "sha256-Uu+4A18oNopVsN00pu13HIjgrmxG\/ofZtCrQ\/\/oO8u8=",
       "url": "_framework\/System.Text.RegularExpressions.dll"
     },
     {
@@ -653,5 +657,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "gusPrcmy"
+  "version": "IR2n6S\/I"
 };
