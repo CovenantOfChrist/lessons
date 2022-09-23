@@ -189,7 +189,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-R+PK5ZK\/96x6NwBjAfcyPbsazbC3ejru1CR10CNgIBQ=",
+      "hash": "sha256-NPKpvC8XNMrWWz0ZugH2FmS6cRd7BkK8q6weeOj5eBs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -225,7 +225,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-TesmzHvsZjLP9NgCT2Y4935t3DLAqNgtTs9F7a67LJI=",
+      "hash": "sha256-WzgIEEzs6PtrNPT9R+IN+PoWLRf\/+kEBSPsIvtUOYQQ=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -657,5 +657,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "pDWjwKvl"
+  "version": "ADlQ98k+"
 };
