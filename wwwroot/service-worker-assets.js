@@ -13,10 +13,6 @@
       "url": "Assets\/drawerButtonScreen.png"
     },
     {
-      "hash": "sha256-b9tFA961ioQef6swUX9BI2VhZjAdWizUdOlAvuUbnRw=",
-      "url": "Assets\/lessons\/manifest.json"
-    },
-    {
       "hash": "sha256-vEiSxhmxEEFlIBRJv8FUGpFzR2BqI8xHcthSO8df8do=",
       "url": "Assets\/lessons\/replacements.json"
     },
@@ -657,5 +653,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "ADlQ98k+"
+  "version": "LEj4Uvqd"
 };
