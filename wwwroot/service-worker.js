@@ -16,8 +16,7 @@ const offlineAssetsExclude = [/^service-worker\.js$/, /^manifest\.json$/,
     /^Евангелия\.\.docx$/,
     /^Исход - Соломон\.docx$/,
     /^Основы веры\.\.docx$/,
-    /^Пророки\.\.docx$/,
-    /lessons\//
+    /^Пророки\.\.docx$/
 ];
 
 async function onInstall(event) {
