@@ -13,7 +13,11 @@
       "url": "Assets\/drawerButtonScreen.png"
     },
     {
-      "hash": "sha256-vEiSxhmxEEFlIBRJv8FUGpFzR2BqI8xHcthSO8df8do=",
+      "hash": "sha256-WKipVB1oqfst8LvhxdJObgMGPu\/aeSJiARv5FoLOksU=",
+      "url": "Assets\/lessons\/negativeLookaheads.json"
+    },
+    {
+      "hash": "sha256-xhz\/4dKkLbeAstVQdpdG4iUfl5J1m97YXUzpcTI4q\/w=",
       "url": "Assets\/lessons\/replacements.json"
     },
     {
@@ -185,7 +189,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-69Nhf9uiPQR2rHFIoqnTx4S6tiAInKKIV0RMdko24WQ=",
+      "hash": "sha256-RHpGlgtzmI1j1APknp5p1KkrvQNqCdIRjZmjovmAsL4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -221,7 +225,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-g\/mlUvy2vyUrb5gSdb0TBpetxgDHFPfJa0dGZNQH3NM=",
+      "hash": "sha256-q2zfbCKF6jerkU\/bB6b2v58U\/s+pYz6gx\/uMrxymCRc=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -653,5 +657,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "mv5jvRcF"
+  "version": "bdPdaiWu"
 };
