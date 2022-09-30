@@ -13,36 +13,36 @@
       "url": "Assets\/drawerButtonScreen.png"
     },
     {
+      "hash": "sha256-d6WD16ULjpGsbsZywYz\/2NaFPTLhh8ROGIMBGugmcvs=",
+      "url": "Assets\/lessons\/Byt.docx"
+    },
+    {
+      "hash": "sha256-mMaoaaj\/XNf61Dmh2QbQtKf2Ysa6zPVAqGqPD1IWlVY=",
+      "url": "Assets\/lessons\/DeyanOtkr.docx"
+    },
+    {
+      "hash": "sha256-z+rfwQGuUtFAwFij+rmtS2SINi2ofD8EaFu2REFyR80=",
+      "url": "Assets\/lessons\/Evn.docx"
+    },
+    {
+      "hash": "sha256-V02m\/ad486m2m7QnuZJq94SwAlq5eseJY9k1TFAF6Os=",
+      "url": "Assets\/lessons\/IshodSolomon.docx"
+    },
+    {
       "hash": "sha256-WKipVB1oqfst8LvhxdJObgMGPu\/aeSJiARv5FoLOksU=",
       "url": "Assets\/lessons\/negativeLookaheads.json"
     },
     {
+      "hash": "sha256-+KeIkkAMaxihhbHl5XpQx37zSVyGLXBq0IAx0jictVc=",
+      "url": "Assets\/lessons\/OsnVer.docx"
+    },
+    {
+      "hash": "sha256-acSWEGYZYdwXNAkBLCOLYIEoS\/XUyefWReywXuQJuac=",
+      "url": "Assets\/lessons\/Pror.docx"
+    },
+    {
       "hash": "sha256-xhz\/4dKkLbeAstVQdpdG4iUfl5J1m97YXUzpcTI4q\/w=",
       "url": "Assets\/lessons\/replacements.json"
-    },
-    {
-      "hash": "sha256-xbqPmBBztJjlqC3nXSNG\/EvbOZGGFOxMD0q1mxA3X7k=",
-      "url": "Assets\/lessons\/Бытие.docx"
-    },
-    {
-      "hash": "sha256-UzYDRMT+9Fx85LOfeGouY22I7261ulbdgTj4kKBUkVQ=",
-      "url": "Assets\/lessons\/Деяния - Откровение..docx"
-    },
-    {
-      "hash": "sha256-gNDh7tsH2wK1WqyxsU5XKrT0nFmsx9on1eSaCv5Gv7U=",
-      "url": "Assets\/lessons\/Евангелия..docx"
-    },
-    {
-      "hash": "sha256-0kPcJJFssu3qjDcXtqg5mZXppBg1w0gEX6g2o\/6+M+g=",
-      "url": "Assets\/lessons\/Исход - Соломон.docx"
-    },
-    {
-      "hash": "sha256-DQdPy5krzDwddDPd5QERj\/hpSlmQPn84vdn26pD67yQ=",
-      "url": "Assets\/lessons\/Основы веры..docx"
-    },
-    {
-      "hash": "sha256-izdjQ3JoTqBeNiCMOPFvWSsWwuwsDx2F5CEWyB3dJCA=",
-      "url": "Assets\/lessons\/Пророки..docx"
     },
     {
       "hash": "sha256-3wfgcTQJ9an0LM0ozPtEh6oLAG17eraK39cr8GC\/8Lk=",
@@ -189,7 +189,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-RHpGlgtzmI1j1APknp5p1KkrvQNqCdIRjZmjovmAsL4=",
+      "hash": "sha256-XEmGb8PTbbGIbjtNOw72QR+i1f1nhq98I9Kv4\/RU6sM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -225,7 +225,7 @@
       "url": "_framework\/Azure.Storage.Queues.dll"
     },
     {
-      "hash": "sha256-q2zfbCKF6jerkU\/bB6b2v58U\/s+pYz6gx\/uMrxymCRc=",
+      "hash": "sha256-WzyDh4e5XSJu4tC7yoxcQKubiWGE21FzbiJCmab6Q80=",
       "url": "_framework\/Bible_Blazer_PWA.dll"
     },
     {
@@ -657,5 +657,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "bdPdaiWu"
+  "version": "WO6NzC3S"
 };
